@@ -41,7 +41,9 @@
 4. Центр круга используется для аппроксимации положения сигнала в реальной жизни.
 5.Затем программа проверяет правильность направления сигнала и, соответственно, отправляет сигналы контроллеру мотора для выполнения маневров.
 ![image](https://github.com/Mclaren999/McLaren-FUTURE-ENGINEERS-WRO2023/assets/135827054/0ea1f9eb-a7e9-4d4e-bb83-d1b6bc7b8834)
-![image](https://github.com/Mclaren999/McLaren-FUTURE-ENGINEERS-WRO2023/assets/135827054/1f9ad012-e604-4579-a773-a8c006113903)
+и формула
+![image](https://github.com/Mclaren999/McLaren-FUTURE-ENGINEERS-WRO2023/assets/135827054/2659fc76-7757-431a-b4bc-5ba3d049f771)
+
 
 # Обнаружение стены:
 
