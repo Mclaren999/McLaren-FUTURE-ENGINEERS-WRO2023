@@ -42,7 +42,8 @@
 5.Затем программа проверяет правильность направления сигнала и, соответственно, отправляет сигналы контроллеру мотора для выполнения маневров.
 ![image](https://github.com/Mclaren999/McLaren-FUTURE-ENGINEERS-WRO2023/assets/135827054/0ea1f9eb-a7e9-4d4e-bb83-d1b6bc7b8834)
 и формула
-![image](https://github.com/Mclaren999/McLaren-FUTURE-ENGINEERS-WRO2023/assets/135827054/2659fc76-7757-431a-b4bc-5ba3d049f771)
+<img width="729" alt="Снимок экрана 2023-08-02 в 12 14 18" src="https://github.com/Mclaren999/McLaren-FUTURE-ENGINEERS-WRO2023/assets/135827054/fbcad96e-85dc-4f86-b063-3e83a0ea7b49">
+
 
 
 # Обнаружение стены:
